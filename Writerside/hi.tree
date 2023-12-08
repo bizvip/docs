@@ -3,9 +3,10 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                  name="Help Instance"
-                  start-page="体育盘.md">
+                  name="博彩盘口知识文档"
+                  start-page="football.md">
 
     <toc-element topic="index.md"/>
-    <toc-element topic="体育盘.md"/>
+    <toc-element topic="football.md"/>
+    <toc-element topic="basketball.md"/>
 </instance-profile>
