@@ -9,4 +9,5 @@
     <toc-element topic="index.md"/>
     <toc-element topic="football.md"/>
     <toc-element topic="basketball.md"/>
+    <toc-element topic="egames.md"/>
 </instance-profile>
