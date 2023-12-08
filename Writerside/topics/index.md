@@ -1,9 +1,8 @@
 # index
 
-Start typing here...
+博彩专业术语名词解释
 
 ```
-Actionscript
-dsajfiodasojfiodsajio
+作者：Archer
 ```
 
